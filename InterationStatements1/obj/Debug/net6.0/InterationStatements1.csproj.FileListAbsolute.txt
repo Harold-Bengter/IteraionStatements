@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\bin\Debug\net6.0\InterationStatements1.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\bin\Debug\net6.0\InterationStatements1.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\bin\Debug\net6.0\InterationStatements1.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\bin\Debug\net6.0\InterationStatements1.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\bin\Debug\net6.0\InterationStatements1.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\refint\InterationStatements1.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\InterationStatements1.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\InterationStatements1\InterationStatements1\obj\Debug\net6.0\ref\InterationStatements1.dll
